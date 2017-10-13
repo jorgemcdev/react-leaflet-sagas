@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Navigation Header 1`] = `
+<div
+  style={
+    Object {
+      "margin": 10,
+    }
+  }
+>
+  <div
+    className="ui secondary menu"
+  >
+    <a
+      className="item"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <div
+      className="right menu"
+    />
+  </div>
+</div>
+`;
