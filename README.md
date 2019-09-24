@@ -1,5 +1,7 @@
 # React Leaflet Sagas Sample App
 
+[DEMO](https://naughty-shockley-aaf469.netlify.com/).
+
 - semantic-ui
 - react-leaflet
 - redux
@@ -20,7 +22,7 @@ Starter Kit
 ## Demo
 
 
-Demo [netlify](https://naughty-shockley-aaf469.netlify.com/).
+
 
 
 ## Install
